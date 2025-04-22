@@ -1,11 +1,8 @@
-# intona-language-app
-An AI-powered app to help users speak with better intonation and pitch awareness
-
 
 
 # 🎵 Intona – Speak in Melody
 
-**A language learning app that teaches speaking through intonation and pitch visualization.**
+**An AI-powered language learning app that teaches speaking through intonation and pitch visualization.**
 
 ## 🌟 Why This App?
 
